@@ -15,6 +15,7 @@
 	<li>Node.js</li>
 	<li>Express</li>
 	<li>MongoDB</li>
+	<li>Mongoose</li>
 	<li>Handlebars</li>
 </ul>
 
