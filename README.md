@@ -1,7 +1,7 @@
 # Products_Mongoose
 
 <h2>Descrição do Projeto</h2>
-<p>Aqui apliquei o Mongoose no projeto Products <a href="https://github.com/Cr-Israel/Products">Link do projeto Products</a>. Era um projeto feito só com o MongoDB. Agora, apliquei o Mongoose nele.</p>
+<p>Aqui apliquei o Mongoose no projeto Products <a href="https://github.com/Cr-Israel/Products">link do projeto Products</a>. Era um projeto feito só com o MongoDB.</p>
 
 <h2>Funcionalidades</h2>
 <ul>
